@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PRANAY
 - 👀 I’m interested in Animation,game designing ,Badminton and Basketball.
-- 🌱 I’m currently learning React,Js,Java,,SQL,3D modelling,Animation,..
+- 🌱 I’m currently learning React,Js,Java,SQL,3D modelling,Animation,..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @pranaykumarmolleti@gmail.com
 
