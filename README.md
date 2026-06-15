@@ -45,6 +45,18 @@
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/M-PRANAY)
 [![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/M-PRANAY)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake.svg"
+  />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 <details>
 <p align="center">
